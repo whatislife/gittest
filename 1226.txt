@@ -7,3 +7,6 @@ test1 master hebing test3 master
 ===合并 
 合并 test1 test2
 ======
+add by dell dev
+add by test1 dev 
+合并代码
