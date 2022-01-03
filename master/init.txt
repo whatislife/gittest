@@ -1,14 +1,1 @@
-master
-dev1 1th dev1
-dev1 2th dev1
-dev 1th master
-dev 2th master
-git merge fe667bd1ec0463b071fafec295acc5df21dd2acd into dev
-dev1 3th dev1
-dev 3th master
-dev 4th dev
-dev 5th dev
-dev 6th dev
-dev 7th dev
-git merge origin/dev
 dev 999 dev
